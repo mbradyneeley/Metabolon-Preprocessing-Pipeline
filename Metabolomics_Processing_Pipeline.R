@@ -1,6 +1,5 @@
 library(tidyverse)
 library(dplyr)
-library(dplyr)
 library(readxl)
 
 ## Read in raw data from excel file, select sheet with 'raw' data
